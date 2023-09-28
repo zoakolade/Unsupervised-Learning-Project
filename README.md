@@ -1,7 +1,7 @@
 # machine_learning_project-unsupervised-learning
 
 ## Project Goals
-The objective of this project was to extract meaningful patterns and group similar data points together within the Wholesale dataset, which comprises information about a wide range of products sold by a grocery store. This was achieved through the application of unsupervised machine learning techniques aimed at gaining valuable insights from the data.
+The objective of this project was to extract meaningful patterns and group similar data points together within the Wholesale dataset, which comprises information about a wide range of products sold by a grocery store.The variables available in the dataset were: Channel, Region, Fresh, Milk, Grocery, Frozen, Detergents_Paper, Delicassen. This was achieved through the application of unsupervised machine learning techniques aimed at gaining valuable insights from the data.
 
 ## Process
 Initially, the dataset underwent an importation process, followed by essential data cleaning and exploratory data analysis (EDA). This encompassed tasks such as identifying and addressing null values, outlier detection, and creating visual charts and graphs to gain preliminary insights into the data.
